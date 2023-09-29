@@ -64,7 +64,7 @@ nav a {
 }
 
 nav a:hover {
-    color: white;
+    color: var(--light);
     transition: all .45s ease-in;
 }
 
@@ -86,9 +86,6 @@ main {
     border-radius:50px;
     width:200px;
     height:auto;
-    /* position: relative;
-      left: 100px;
-      top:30px; */
 }
 
 .my-abilities {
