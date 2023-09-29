@@ -18,9 +18,11 @@ Framework built with help of provided code in class repositories and previous pr
 
 ## License
 
-Refer to original LICENSE in repo
+There is no license in this repository.
 
 ## Link to Deployed Application
+
+https://kurstiedehaven.github.io/check_me_out/
 
 ## Photo
 
