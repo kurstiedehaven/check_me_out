@@ -26,6 +26,8 @@ https://kurstiedehaven.github.io/check_me_out/
 
 ## Photo
 
+![Screenshot 2023-09-28 at 11 36 47 PM](https://github.com/kurstiedehaven/check_me_out/assets/134163209/07f558e4-4045-4c11-9a9a-f021bc3f296a)
+
 ---
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
